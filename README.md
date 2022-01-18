@@ -1,5 +1,6 @@
 # Operating Systems 2016
-This repository contains two assignments for the Operating Systems (2016) University course.
+This repository contains two course assignments for the **Operating Systems** university course for the
+academic period of 2016-2017 done by <a href="https://github.com/PARVD0XSVPR3ME">Panagiotis Charalampopoulos</a>.
 
 ## Assignment 1
 Developed a minimal shell in C that has the following features:
