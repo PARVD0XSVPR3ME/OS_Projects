@@ -54,6 +54,7 @@ gcc -pthread syn_thread_2.c display.c -o syn_thread_2
 ![](screenshots/assignment2_4.png)
 
 # License
-All files are licensed under the  [AGPL-3.0](https://www.gnu.org/licenses/agpl-3.0.en.html)
+All files except `assignment-2.pdf` and `assignment-3.pdf` are licensed under the
+[AGPL-3.0](https://www.gnu.org/licenses/agpl-3.0.en.html) license.
 
 Copyright © <a href="https://github.com/PARVD0XSVPR3ME">Panagiotis Charalampopoulos</a>
